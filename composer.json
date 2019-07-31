@@ -1,0 +1,15 @@
+{
+    "name": "zilllucks/identitysupport",
+    "description": "Common support data for identity",
+    "authors": [{
+        "name": "Lutfi Ghazali",
+        "email": "zillucks988@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Zillucks\\IdentitySupport\\": "src/"
+        }
+    }
+}
